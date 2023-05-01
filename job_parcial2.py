@@ -1,6 +1,5 @@
 import boto3
 import urllib.request
-from io import BytesIO
 from datetime import datetime
 
 
